@@ -1,5 +1,3 @@
-This is a solid, functional tool for log analysis and text processing. Below is a structured README.md that explains how it works, how to use it, and its core features.
-
 Text & Log Analyzer
 A lightweight, browser-based tool to upload, search, and extract data from text files or logs. This utility is designed for developers and system administrators who need to quickly parse log files, highlight specific patterns, or identify IP addresses without uploading sensitive data to a server.
 
